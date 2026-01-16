@@ -7,24 +7,6 @@ The project demonstrates working with text files, using the `with` context manag
 
 ---
 
-## 📁 Project Structure
-
-```text
-go
-├── task_1_salary.py
-├── task_2_cats.py
-├── task_3_directory_tree.py
-├── task_4_assistant_bot.py
-├── salary.txt
-├── cats.txt
-├── .gitignore
-└── README.md
-```
-
-> File names may slightly differ depending on the implementation.
-
----
-
 ## 🧩 Task 1 — Salary Analysis
 
 ### Description
