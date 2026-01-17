@@ -86,7 +86,7 @@ pip install colorama
 ### Run
 
 ```bash
-python task_3_directory_tree.py /path/to/directory
+python3 main.py /path/to/directory
 ```
 
 ---
