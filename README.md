@@ -133,7 +133,3 @@ python task_4_assistant_bot.py
 
 ---
 
-## 📌 Author
-
-**Denys**
-Homework completed as part of the **GoIT Python Core** course
